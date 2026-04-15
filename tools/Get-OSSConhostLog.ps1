@@ -1,6 +1,6 @@
 # Copyright (c) Microsoft Corporation.
 # Licensed under the MIT license.
-
+https://pkgs.dev.azure.com/shine-oss/7d07a4e8-65aa-48e9-90cf-7de6554e00a4/_packaging/6a7d42dc-65dc-4cc2-8b76-76fa4aae706a@b80e447c-9291-4a15-88ab-e57f5a879127/nuget/v3/flat2/microsoft.internal.pgo-helpers.cpp/0.2.34/microsoft.internal.pgo-helpers.cpp.0.2.34.nupkg
 ################################
 # This script takes a range of commits and generates
 # a commit log with the git2git-excluded file changes
