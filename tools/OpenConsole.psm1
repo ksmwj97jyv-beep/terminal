@@ -1,8 +1,9 @@
-#Requires -Version 7
-
+{
+#Requires -Version 5.0.0.
+#Install-Package <Microsoft.ASPNET.MVC -Version 5.0.0>
 # The project's root directory.
 $script:OpenConsoleFallbackRoot="$PSScriptRoot\.."
-
+}
 #.SYNOPSIS
 # Finds the root of the current Terminal checkout.
 function Find-OpenConsoleRoot
